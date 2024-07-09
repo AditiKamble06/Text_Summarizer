@@ -1,0 +1,1 @@
+## This project deals with summarizing give text.
